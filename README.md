@@ -286,11 +286,9 @@ SYSTEM MESSAGE:
 ```
 # `> CONTRIBUTION.MATRIX`
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Mirella03-ops/Mirella03-ops/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mirella03-ops/Mirella03-ops/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+</p>
 
 # `> CONNECT`
 
