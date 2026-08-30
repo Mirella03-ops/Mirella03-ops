@@ -28,11 +28,11 @@
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
-> ABOUT.ME
+# `> ABOUT.ME`
 
 <div align="center">
 
-// INITIALIZING USER PROFILE...
+<img src="https://img.shields.io/badge/USER_PROFILE-ONLINE-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
