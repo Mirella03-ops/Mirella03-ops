@@ -248,7 +248,23 @@ SYSTEM MESSAGE:
 ╚══════════════════════════════════════════════════════════╝
 ```
 # `> ACTIVITY.GRAPH`
-<div align="center"> <img src="https://raw.githubusercontent.com/Mirella03-ops/Mirella03-ops/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                    ACTIVITY.GRAPH                       ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  CONTRIBUTION ACTIVITY                                   ║
+║                                                          ║
+║  ▸ GitHub activity       :: TRACKED                      ║
+║  ▸ Projects              :: 3 PORTFOLIO BUILDS           ║
+║  ▸ Learning              :: ACTIVE                        ║
+║  ▸ Development           :: IN PROGRESS                  ║
+║                                                          ║
+║  SYSTEM STATUS :: ONLINE                                 ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 # `> ACHIEVEMENTS`
 ```
@@ -269,7 +285,12 @@ SYSTEM MESSAGE:
 ╚══════════════════════════════════════════════════════════╝
 ```
 # `> CONTRIBUTION.MATRIX`
-<div align="center"> <img src="https://raw.githubusercontent.com/Mirella03-ops/Mirella03-ops/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div> ```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mirella03-ops/Mirella03-ops/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
 
 # `> CONNECT`
 
