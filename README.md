@@ -14,19 +14,19 @@
 
 > SYSTEM.IDENTITY
 ```
-╭────────────────────────────────────────────────────╮
-│                 CURRENT DEVELOPMENT                 │
-├────────────────────────────────────────────────────┤
-│                                                    │
-│  ☕ Java              :: CURRENT FOCUS             │
-│  🐍 Python            :: BASIC                     │
-│  🌐 HTML              :: LEARNING                  │
-│  🎨 CSS               :: LEARNING                  │
-│  🗄️ SQL               :: LEARNING                  │
-│  🐙 Git / GitHub      :: ACTIVE                    │
-│  🐧 Linux             :: DAILY ENVIRONMENT         │
-│                                                    │
-╰────────────────────────────────────────────────────╯
+╔══════════════════════════════════════════════════════════╗
+║                 MIRELLA03-OPS // PROFILE                ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  ROLE        :: ADS Student                              ║
+║  FOCUS       :: Software Development                     ║
+║  CURRENT     :: Java                                     ║
+║  LEARNING    :: Python • HTML • CSS • SQL                ║
+║  TOOLS       :: Git • GitHub • Linux                     ║
+║  STATUS      :: Learning & Building                      ║
+║  MODE        :: Continuous Learning                      ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 > ABOUT.ME
 
@@ -104,6 +104,8 @@ Meu objetivo é evoluir constantemente, construir projetos cada vez mais complet
 </div>
 
 > LEARNING.PROTOCOL
+
+```
 SYSTEM://LEARNING_PROTOCOL
 
 [01] PROGRAMMING
@@ -130,6 +132,7 @@ SYSTEM://LEARNING_PROTOCOL
      ├── Personal Projects
      ├── Experiments
      └── Continuous Improvement
+```
      
 > PROJECT.DATABASE
 
@@ -173,6 +176,8 @@ SYSTEM://LEARNING_PROTOCOL
 Projetos acadêmicos, experimentos e novos projetos serão adicionados conforme minha jornada de desenvolvimento evolui.
 
 > CURRENT.MISSION
+
+```
 $ ./system_status.sh
 
 SYSTEM STATUS
@@ -205,6 +210,7 @@ $ ./next_objectives.sh
 SYSTEM MESSAGE:
 
 "Every expert was once a beginner who kept going."
+```
 > GITHUB.ANALYTICS
 
 <div align="center">
@@ -263,6 +269,7 @@ SYSTEM MESSAGE:
 
 <br>
 
+```
 ╭─────────────────────────────────────────────────────╮
 │                                                     │
 │       "The future is built one line at a time."     │
@@ -270,6 +277,7 @@ SYSTEM MESSAGE:
 │                 SYSTEM // ONLINE                   │
 │                                                     │
 ╰─────────────────────────────────────────────────────╯
+```
 
 <br>
 
