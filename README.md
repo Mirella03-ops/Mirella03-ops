@@ -13,19 +13,21 @@
 </div>
 
 > SYSTEM.IDENTITY
-╔══════════════════════════════════════════════════════════╗
-║                 MIRELLA03-OPS // PROFILE                ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  ROLE        :: ADS Student                              ║
-║  FOCUS       :: Software Development                     ║
-║  CURRENT     :: Java                                     ║
-║  LEARNING    :: Python • HTML • CSS • SQL                ║
-║  TOOLS       :: Git • GitHub • Linux                     ║
-║  STATUS      :: Learning & Building                      ║
-║  MODE        :: Continuous Learning                      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+```
+╭────────────────────────────────────────────────────╮
+│                 CURRENT DEVELOPMENT                 │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│  ☕ Java              :: CURRENT FOCUS             │
+│  🐍 Python            :: BASIC                     │
+│  🌐 HTML              :: LEARNING                  │
+│  🎨 CSS               :: LEARNING                  │
+│  🗄️ SQL               :: LEARNING                  │
+│  🐙 Git / GitHub      :: ACTIVE                    │
+│  🐧 Linux             :: DAILY ENVIRONMENT         │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+```
 > ABOUT.ME
 
 <div align="center">
@@ -46,6 +48,7 @@ Gosto de entender como as coisas funcionam, resolver problemas e aprender novas 
 
 Meu objetivo é evoluir constantemente, construir projetos cada vez mais completos e descobrir novas possibilidades dentro da tecnologia.
 
+```
 ╭────────────────────────────────────────────────────╮
 │                 CURRENT DEVELOPMENT                 │
 ├────────────────────────────────────────────────────┤
@@ -59,6 +62,7 @@ Meu objetivo é evoluir constantemente, construir projetos cada vez mais complet
 │  🐧 Linux             :: DAILY ENVIRONMENT         │
 │                                                    │
 ╰────────────────────────────────────────────────────╯
+```
 > TECH.STACK
 
 <div align="center">
@@ -146,6 +150,7 @@ SYSTEM://LEARNING_PROTOCOL
 </div>
 
 // PROJECT STATUS
+```text
 ┌────────────────────────────────────────────────────────┐
 │ PROJECT DATABASE                                       │
 ├────────────────────────────────────────────────────────┤
@@ -163,6 +168,7 @@ SYSTEM://LEARNING_PROTOCOL
 │ STATUS     :: STUDY REPOSITORY                         │
 │                                                        │
 └────────────────────────────────────────────────────────┘
+```
 
 Projetos acadêmicos, experimentos e novos projetos serão adicionados conforme minha jornada de desenvolvimento evolui.
 
