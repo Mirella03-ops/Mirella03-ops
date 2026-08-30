@@ -126,26 +126,21 @@ SYSTEM://LEARNING_PROTOCOL
      ├── Personal Projects
      ├── Experiments
      └── Continuous Improvement
+     
 > PROJECT.DATABASE
 
 <div align="center">
 
 <a href="https://github.com/Mirella03-ops/projeto-cordel">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mirella03-ops&repo=projeto-cordel&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=8A2BE2"/>
-
+<img src="https://img.shields.io/badge/📜%20PROJETO%20CORDEL-8A2BE2?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Mirella03-ops/projeto-felino">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mirella03-ops&repo=projeto-felino&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=8A2BE2"/>
-
+<img src="https://img.shields.io/badge/🐱%20PROJETO%20FELINO-6A0DAD?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Mirella03-ops/projeto-redes-sociais">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mirella03-ops&repo=projeto-redes-sociais&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=8A2BE2"/>
-
+<img src="https://img.shields.io/badge/🌐%20PROJETO%20REDES%20SOCIAIS-C77DFF?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
