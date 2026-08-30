@@ -229,31 +229,49 @@ SYSTEM MESSAGE:
 
 </div>
 
-> ACTIVITY.GRAPH
+# `> CONTRIBUTION.STREAK`
 
-<div align="center">
+```
+╔══════════════════════════════════════════════════════════╗
+║                  CONTRIBUTION.STREAK                     ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  GITHUB CONTRIBUTIONS                                    ║
+║                                                          ║
+║  ▸ Current activity      :: SEE CONTRIBUTION MATRIX      ║
+║  ▸ Repository activity   :: ACTIVE                       ║
+║  ▸ Learning consistency  :: IN PROGRESS                  ║
+║  ▸ Development           :: CONTINUOUS                   ║
+║                                                          ║
+║  STATUS :: KEEP BUILDING                                 ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+# `> ACTIVITY.GRAPH`
+<div align="center"> <img src="https://raw.githubusercontent.com/Mirella03-ops/Mirella03-ops/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mirella03-ops&bg_color=0D1117&color=C77DFF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+# `> ACHIEVEMENTS`
+```
+╔══════════════════════════════════════════════════════════╗
+║                     ACHIEVEMENTS                         ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  [01] ADS STUDENT                    :: ACTIVE           ║
+║  [02] JAVA LEARNING                  :: ACTIVE           ║
+║  [03] PYTHON LEARNING                :: ACTIVE           ║
+║  [04] WEB DEVELOPMENT                :: ACTIVE           ║
+║  [05] SQL / DATABASES                :: INITIALIZING     ║
+║  [06] GIT / GITHUB                   :: ACTIVE           ║
+║  [07] FIRST PROJECTS                 :: COMPLETED        ║
+║                                                          ║
+║  SYSTEM STATUS :: EVOLVING                              ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+# `> CONTRIBUTION.MATRIX`
+<div align="center"> <img src="https://raw.githubusercontent.com/Mirella03-ops/Mirella03-ops/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div> ```
 
-</div>
-
-> ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mirella03-ops&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
-
-</div>
-
-> CONTRIBUTION.MATRIX
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Mirella03-ops/Mirella03-ops/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> CONNECT
+# `> CONNECT`
 
 <div align="center">
 
