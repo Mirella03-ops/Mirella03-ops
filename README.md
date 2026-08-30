@@ -208,9 +208,9 @@ SYSTEM MESSAGE:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mirella03-ops&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=8A2BE2&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+<img height="180em" src="./profile/stats.svg"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirella03-ops&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=FFFFFF&langs_count=8"/>
+<img height="180em" src="./profile/top-langs.svg"/>
 
 </div>
 
