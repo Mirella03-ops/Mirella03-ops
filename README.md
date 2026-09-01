@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:008CFF,100:00FFFF&height=6&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:3B1266,70:7B2CBF,100:0066FF&height=230&section=header&text=MIRELLA03-OPS&fontSize=48&fontColor=F2E6FF&animation=fadeIn&fontAlignY=35&desc=SYSTEM%20INITIALIZATION%20%E2%80%A2%20DEVELOPER%20PROFILE&descAlignY=58&descSize=16" width="100%"/>
 </div>
 
 <br>
