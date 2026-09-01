@@ -9,7 +9,10 @@
 <br>
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-8A2BE2?style=for-the-badge&logo=statuspage&logoColor=white"/> <img src="https://img.shields.io/badge/ADS-STUDENT-6A0DAD?style=for-the-badge&logo=academia&logoColor=white"/> <img src="https://img.shields.io/badge/LEARNING-ACTIVE-C77DFF?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:008CFF,100:00FFFF&height=6&section=header" width="100%"/>
 </div>
 
 > SYSTEM.IDENTITY
@@ -50,7 +53,7 @@ Meu objetivo é evoluir constantemente, construir projetos cada vez mais complet
 
 ```
 ╭────────────────────────────────────────────────────╮
-│                 CURRENT DEVELOPMENT                 │
+│                 CURRENT DEVELOPMENT                │
 ├────────────────────────────────────────────────────┤
 │                                                    │
 │  ☕ Java              :: CURRENT FOCUS             │
@@ -67,27 +70,27 @@ Meu objetivo é evoluir constantemente, construir projetos cada vez mais complet
 
 <div align="center">
 
-// PROGRAMMING
+### `PROGRAMMING`
 
-<img src="https://skillicons.dev/icons?i=java,python" />
-
-<br><br>
-
-// WEB DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=java,python" height="65"/>
 
 <br><br>
 
-// DATABASE
+### `WEB DEVELOPMENT`
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=html,css" height="65"/>
 
 <br><br>
 
-// VERSION CONTROL
+### `DATABASE`
 
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=mysql" height="65"/>
+
+<br><br>
+
+### `VERSION CONTROL`
+
+<img src="https://skillicons.dev/icons?i=git,github" height="65"/>
 
 </div>
 
@@ -101,6 +104,12 @@ Meu objetivo é evoluir constantemente, construir projetos cada vez mais complet
 
 <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/> <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=C77DFF"/> <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
 
+</div>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:008CFF,100:00FFFF&height=6&section=header" width="100%"/>
 </div>
 
 > LEARNING.PROTOCOL
