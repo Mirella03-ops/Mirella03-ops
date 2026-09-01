@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:C77DFF,100:8A2BE2&height=5&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:008CFF,100:00FFFF&height=6&section=header" width="100%"/>
 </div>
 
 > SYSTEM.IDENTITY
