@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:3B1266,70:7B2CBF,100:0066FF&height=230&section=header&text=MIRELLA03-OPS&fontSize=48&fontColor=F2E6FF&animation=fadeIn&fontAlignY=35&desc=SYSTEM%20INITIALIZATION%20%E2%80%A2%20DEVELOPER%20PROFILE&descAlignY=58&descSize=16" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:1A0B2E,100:8A2BE2&height=230&section=header&text=MIRELLA03-OPS&fontSize=48&fontColor=C77DFF&animation=fadeIn&fontAlignY=35&desc=SYSTEM%20INITIALIZATION%20%E2%80%A2%20DEVELOPER%20PROFILE&descAlignY=58&descSize=16" width="100%"/>
 
 <br>
 
@@ -10,10 +9,11 @@
 <br>
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-8A2BE2?style=for-the-badge&logo=statuspage&logoColor=white"/> <img src="https://img.shields.io/badge/ADS-STUDENT-6A0DAD?style=for-the-badge&logo=academia&logoColor=white"/> <img src="https://img.shields.io/badge/LEARNING-ACTIVE-C77DFF?style=for-the-badge&logo=bookstack&logoColor=white"/>
+
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:008CFF,100:00FFFF&height=6&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:C77DFF,100:8A2BE2&height=5&section=header" width="100%"/>
 </div>
 
 > SYSTEM.IDENTITY
